@@ -7,7 +7,7 @@
 - Calculate odds ratio
 - Verify $\pi_i = \frac{\Omega_i}{1 + \Omega_i}$ for $i = 1, 2$
 - Association between groups based on $\theta$
-- Verify odds ratio = $relative risk \times \left( 1 - \pi_2 \right)$
+- Verify odds ratio = $relative risk$ $\times \left( 1 - \pi_2 \right)$
 
 ### Chapter 2
 
@@ -22,13 +22,13 @@
 
 ### Chapter 3
 
-- Calculate confidence interval for odds ratio, \( \theta \)
-- Calculate confidence interval for difference of proportion, \( \pi_1 - \pi_2 \)
-- Calculate confidence interval for relative risk, \( r \)
+- Calculate confidence interval for odds ratio, $\theta$
+- Calculate confidence interval for difference of proportion, $\pi_1 - \pi_2$
+- Calculate confidence interval for relative risk, r
 - Comment on association between gender and employability based on confidence intervals
-- Compute Chi-square statistic, \( X^2 \)
-- Compute Wilk's statistic, \( G^2 \)
-- Compare statistics with Chi-square cut-off value and comment on testing \( H_0: \pi_{ij} = \pi_{i+} \pi_{j+} \)
+- Compute Chi-square statistic, $X^2$
+- Compute Wilk's statistic, $G^2$
+- Compare statistics with Chi-square cut-off value and comment on testing $H_0: \pi_{ij} = \pi_{i+} \pi_{j+}$
 - Find number of concordant pairs for Job satisfaction vs income level data using a loop
 - Understand and compute number of discordant pairs
 - Calculate p-value in Fisher's tea taster experiment for hypothesis testing of independence
