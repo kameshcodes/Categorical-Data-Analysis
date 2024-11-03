@@ -1,12 +1,13 @@
 # Chapter Topics Overview
 
 ### Chapter 1
+
 - Calculate relative risk
 - Odds of success for both rows
 - Calculate odds ratio
-- Verify \( \pi_i = \frac{\Omega_i}{1 + \Omega_i} \) for \( i = 1, 2 \)
-- Association between groups based on \( \theta \)
-- Verify odds ratio = relative risk \( \times \left( 1 - \pi_2 \right) \)
+- Verify $\pi_i = \frac{\Omega_i}{1 + \Omega_i}$ for $i = 1, 2$
+- Association between groups based on $\theta$
+- Verify odds ratio = $relative risk \times \left( 1 - \pi_2 \right)$
 
 ### Chapter 2
 
@@ -14,10 +15,10 @@
 - Distribution of hair, eye color, and sex in students
 - Convert dataset to a data frame and construct contingency table for hair and eye color
 - Manually verify that sum of row marginals = sum of column marginals = n
-- Verify that \( p_{1+} + p_{2+} = p_{+1} + p_{+2} = 1 \)
+- Verify that $p_{1+} + p_{2+} = p_{+1} + p_{+2} = 1$
 - Create a contingency table for Employee status vs Sex
 - Calculate expected frequency for each column
-- Calculate \( \sum \frac{(f_i - e_i)^2}{e_i} \) 
+- Calculate $\sum \frac{(f_i - e_i)^2}{e_i}$
 
 ### Chapter 3
 
