@@ -49,7 +49,7 @@
 - Determine 95% confidence interval for beta
 - Find expected satellites of each group in grouped table
 - Calculate Chi-square statistic and p-value
-- Calculate Pearsonian residual
+- Calculate Pearson residual
 
 ### Chapter 5
 
